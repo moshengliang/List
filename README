@@ -1,0 +1,13 @@
+This module is the common List lib.
+Include List create; List insert; List Delete; List Destory...
+
+This Project is a Two Way List.
+
+├── build                   ---- after compile, final files will locate this dir.
+├── Config.mk               ---- Makefile Configure file, almost for Cross Compile.
+├── demo                    ---- the demo source file of the library
+├── inc                     ---- head files that the library used.
+├── lib                     ---- other librarys that the library used.
+├── Makefile                ---- main Makefile.
+├── src                     ---- library source file located.
+
